@@ -1,0 +1,16 @@
+body{
+
+    height: 100vh;
+    background-image: linear-gradient(to left bottom, #52eeda, #62ddb3, #73cb8e, #82b96d, #8da550);
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#game span {
+    display:block;
+    margin: 15px;
+}
+
